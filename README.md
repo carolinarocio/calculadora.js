@@ -1,2 +1,2 @@
-Link da calculadora [aqui][(http://127.0.0.1:5500/19-calc-js/]((https://carolinarocio.github.io/calculadora.js/))
+Link da calculadora [aqui](https://carolinarocio.github.io/calculadora.js/).
 Esse código é de uma calculadora online interativa feita com JavaScript. Ele permite que o usuário digite operações matemáticas ou use botões para inserir os números e operadores. Se o usuário errar algo, o código exibe "ERROR" no campo de resultado. Além disso, tem um botão de copiar, que envia o resultado para a área de transferência, e uma função que alterna o tema da interface entre claro e escuro, ajustando as cores dinamicamente para melhorar a experiência visual.
